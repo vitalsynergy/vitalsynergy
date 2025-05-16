@@ -1,0 +1,6 @@
+{
+    // Set current working directory to `website`.
+    "terminal.integrated.cwd": "website",
+    "IDX.aI.enableInlineCompletion": true,
+    "IDX.aI.enableCodebaseIndexing": true,
+}
