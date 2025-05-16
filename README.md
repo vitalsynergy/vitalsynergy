@@ -21,4 +21,3 @@ dart run flutter_launcher_icons
 ```
 
 Read more at: https://pub.dev/packages/flutter_launcher_icons
-
