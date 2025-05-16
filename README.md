@@ -4,9 +4,7 @@
 
 This repo contains source code for https://vitalsynergyoregon.com/.
 
-## Web Site
-
-### Hosting
+## Hosting
 
 To deploy code to site:
 
@@ -14,7 +12,7 @@ To deploy code to site:
 firebase deploy
 ```
 
-### Generate icon
+## Generate icon
 
 Run:
 
